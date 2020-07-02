@@ -1,4 +1,4 @@
-package com.testleaf.week1;
+package com.week1.day3;
 
 public class Occurence1 {
 
